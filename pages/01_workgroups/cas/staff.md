@@ -16,8 +16,7 @@ title:Staff
 | ![Portrait](staff/Portrait_AnnaS.jpg){style="width:70px"} | M. Sc. Anna Strube <br> Research Engineer | strube.anna@mh-hannover.de <br> +49(0)511/532-7263  |
 | ![Portrait](staff/Portrait_JinhanZ.jpg){style="width:70px"} | M. Sc. Jinhan Zhu <br> Research Engineer | zhu.jinhan@mh-hannover.de <br> +49(0)511/532-7263 |
 |   | ***Associated Staff*** ||	
-| ![Portrait](staff/Omid.jpg){style="width:70px"} | Prof. Dr. Omid Majdani           | majdani.omid@mh-hannover.de        |
-| ![Portrait](staff/rolf.jpg){style="width:70px"} | Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
+| ![Portrait](staff/rolf.jpg){style="width:70px"} | PD Dr. med. Rolf Salcher  <br> Senior Otolaryngologist, Skull Base Surgeon     		| salcher.rolf@mh-hannover.de|
 | ![Portrait](staff/Portrait_EralpA.jpg){style="width:70px"}  | Eralp Artukarslan <br> ENT Resident | artukarslan.eralp-niyazi@mh-hannover.de |
 |  | ***Students*** ||  
 | ![Portrait](staff/empty_male.png){style="width:70px"}   | Lucas Mey       | Master Thesis  |
